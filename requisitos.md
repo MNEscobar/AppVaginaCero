@@ -16,3 +16,5 @@ Requisitos no funcionales:
 - App offline
 - Interfaz simple y accesible
 - Rápida en dispositivos de gama baja
+
+[Discutan](https://github.com/MNEscobar/AppVaginaCero/issues/1#issue-3282336587)
