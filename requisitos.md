@@ -7,9 +7,10 @@ Requisitos funcionales:
 - Guardar personajes en base de datos
 - Visualizar hoja de personaje
 - Editar o eliminar personaje
-- Calculo de vida in game
+- Cálculo de vida in game
+- Otros calculos in game (oro, municiones, raciones, etc)
 - Añadir trasfondo o notas personalizadas
-- (otros a definir en conjunto)
+- (otros a definir)
 
 Requisitos no funcionales:
 
